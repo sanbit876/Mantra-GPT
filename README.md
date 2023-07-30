@@ -1,6 +1,6 @@
-# Mantra-GPT
+# mantra-gpt
 
-✨ Mantra-GPT is a chat-bot application based upon textbase and GPT-3.5 that can solve user problems by providing suitable sanskrit-mantra to chant!! ✨
+✨ mantra-gpt is a chat-bot application based upon textbase and GPT-3.5 that can solve user problems by providing suitable sanskrit-mantra to chant!! ✨
 
 ## Installation
 
